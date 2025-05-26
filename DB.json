@@ -1,0 +1,98 @@
+{
+  "video": [
+    {
+      "caption": " Titli",
+      "imageurl": "https://i.ytimg.com/vi/OzeQr87qmfg/maxresdefault.jpg",
+      "embedlink": "https://www.youtube.com/embed/V8zXLMIjlcw",
+      "id": 2
+    },
+    {
+      "caption": " Sun Saathiya",
+      "imageurl": "https://i.ytimg.com/vi/_NWaYjsz3qY/maxresdefault.jpg",
+      "embedlink": "https://www.youtube.com/embed/UNs50T6EYwE",
+      "id": 3
+    },
+    {
+      "caption": " Dildara",
+      "imageurl": "https://i.ytimg.com/vi/gQ5qVtoLMk4/maxresdefault.jpg",
+      "embedlink": "https://www.youtube.com/embed/gQ5qVtoLMk4",
+      "id": 5
+    },
+    {
+      "caption": "Marudaani",
+      "imageurl": "https://i.ytimg.com/vi/t-a6VlOUEtc/sddefault.jpg",
+      "embedlink": "https://www.youtube.com/embed/t-a6VlOUEtc",
+      "id": 6
+    },
+    {
+      "caption": " Poonkaattinodum",
+      "imageurl": "https://i.ytimg.com/vi/ADU0B95tbvo/sddefault.jpg",
+      "embedlink": "https://www.youtube.com/embed/ADU0B95tbvo",
+      "id": 7
+    }
+  ],
+  "category": [
+    {
+      "categoryname": "malayalam songs",
+      "categoryVideo": [
+        {
+          "caption": " Poonkaattinodum",
+          "imageurl": "https://i.ytimg.com/vi/ADU0B95tbvo/sddefault.jpg",
+          "embedlink": "https://www.youtube.com/embed/ADU0B95tbvo",
+          "id": 7
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryname": "hindi songs",
+      "categoryVideo": [
+        {
+          "caption": " Sun Saathiya",
+          "imageurl": "https://i.ytimg.com/vi/_NWaYjsz3qY/maxresdefault.jpg",
+          "embedlink": "https://www.youtube.com/embed/UNs50T6EYwE",
+          "id": 3
+        },
+        {
+          "caption": " Titli",
+          "imageurl": "https://i.ytimg.com/vi/OzeQr87qmfg/maxresdefault.jpg",
+          "embedlink": "https://www.youtube.com/embed/V8zXLMIjlcw",
+          "id": 2
+        },
+        {
+          "caption": " Dildara",
+          "imageurl": "https://i.ytimg.com/vi/gQ5qVtoLMk4/maxresdefault.jpg",
+          "embedlink": "https://www.youtube.com/embed/gQ5qVtoLMk4",
+          "id": 5
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "caption": " Sun Saathiya",
+      "url": "https://www.youtube.com/embed/UNs50T6EYwE",
+      "timeStamp": "22/05/2025, 12:10:13",
+      "id": 1
+    },
+    {
+      "caption": " Dildara",
+      "url": "https://www.youtube.com/embed/gQ5qVtoLMk4",
+      "timeStamp": "22/05/2025, 12:27:28",
+      "id": 2
+    },
+    {
+      "caption": " Poonkaattinodum",
+      "url": "https://www.youtube.com/embed/ADU0B95tbvo",
+      "timeStamp": "26/05/2025, 09:29:32",
+      "id": 3
+    },
+    {
+      "caption": " Dildara",
+      "url": "https://www.youtube.com/embed/gQ5qVtoLMk4",
+      "timeStamp": "26/05/2025, 10:15:49",
+      "id": 4
+    }
+  ]
+}
